@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTownZoo", "HomeTownZoo\HomeTownZoo.csproj", "{A3D5019C-C970-4DF5-AC7B-3DC14F4A5183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTownZoo.Tests", "HomeTownZoo.Tests\HomeTownZoo.Tests.csproj", "{248FDD96-579A-4E57-967F-E8578238A8C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D5019C-C970-4DF5-AC7B-3DC14F4A5183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D5019C-C970-4DF5-AC7B-3DC14F4A5183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D5019C-C970-4DF5-AC7B-3DC14F4A5183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D5019C-C970-4DF5-AC7B-3DC14F4A5183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248FDD96-579A-4E57-967F-E8578238A8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248FDD96-579A-4E57-967F-E8578238A8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248FDD96-579A-4E57-967F-E8578238A8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248FDD96-579A-4E57-967F-E8578238A8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5A2876-E52A-4127-94C2-E7B93C16C406}
+	EndGlobalSection
+EndGlobal
